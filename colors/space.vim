@@ -71,7 +71,7 @@ hi Normal guifg=#e0e0e0 guibg=#151321 guisp=#151321 gui=NONE ctermfg=254 ctermbg
 "hi htmlendtag -- no settings --
 hi CursorLineNr guifg=#ffc363 guibg=NONE guisp=NONE gui=NONE ctermfg=NONE ctermbg=239 cterm=NONE
 hi IncSearch guifg=#000000 guibg=#ffe8a1 guisp=#ffe8a1 gui=NONE ctermfg=NONE ctermbg=229 cterm=NONE
-hi SpecialComment guifg=#f8f8f2 guibg=NONE guisp=NONE gui=NONE ctermfg=230 ctermbg=NONE cterm=NONE
+hi SpecialComment guifg=#9c9c9c guibg=NONE guisp=NONE gui=italic ctermfg=247 ctermbg=NONE cterm=NONE
 hi Title guifg=#f8f8f2 guibg=NONE guisp=NONE gui=bold ctermfg=230 ctermbg=NONE cterm=bold
 hi Folded guifg=#abf5e8 guibg=#13111f guisp=#13111f gui=NONE ctermfg=159 ctermbg=234 cterm=NONE
 hi PreCondit guifg=#bd57e5 guibg=NONE guisp=NONE gui=NONE ctermfg=134 ctermbg=NONE cterm=NONE
