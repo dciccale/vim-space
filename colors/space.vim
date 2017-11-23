@@ -54,7 +54,7 @@ hi Normal guifg=#e0e0e0 guibg=#151321 guisp=#151321 gui=NONE ctermfg=254 ctermbg
 "hi CTagsClass -- no settings --
 "hi Structure -- no settings --
 "hi TabLine -- no settings --
-"hi htmlarg -- no settings --
+hi htmlarg gui=italic
 "hi cssbraces -- no settings --
 "hi rubyglobalvariable -- no settings --
 "hi htmltagname -- no settings --
