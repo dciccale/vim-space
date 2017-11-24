@@ -89,7 +89,7 @@ hi Conditional guifg=#99ffce guibg=NONE guisp=NONE gui=NONE ctermfg=122 ctermbg=
 hi StorageClass guifg=#a1aaff guibg=NONE guisp=NONE gui=italic ctermfg=147 ctermbg=NONE cterm=NONE
 hi Todo guifg=#abf5e8 guibg=NONE guisp=NONE gui=bold ctermfg=159 ctermbg=NONE cterm=bold
 hi Special guifg=#707070 guibg=NONE guisp=NONE gui=NONE ctermfg=242 ctermbg=NONE cterm=NONE
-hi LineNr guifg=#525252 guibg=#151321 guisp=#151321 gui=underline ctermfg=239 ctermbg=234 cterm=underline
+hi LineNr guifg=#525252 guibg=#151321 guisp=#151321 gui=NONE ctermfg=239 ctermbg=234 cterm=NONE
 hi StatusLine guifg=#f8f8f2 guibg=#64666d guisp=#64666d gui=bold ctermfg=230 ctermbg=242 cterm=bold
 hi Label guifg=#6fd1f2 guibg=NONE guisp=NONE gui=NONE ctermfg=117 ctermbg=NONE cterm=NONE
 hi PMenuSel guifg=#ffffff guibg=#212121 guisp=#212121 gui=NONE ctermfg=15 ctermbg=234 cterm=NONE
@@ -123,7 +123,7 @@ hi PMenuThumb guifg=NONE guibg=#858585 guisp=#858585 gui=NONE ctermfg=NONE cterm
 hi MatchParen guifg=#99ffce guibg=NONE guisp=NONE gui=NONE ctermfg=122 ctermbg=NONE cterm=NONE
 hi Directory guifg=#ffc263 guibg=NONE guisp=NONE gui=NONE ctermfg=215 ctermbg=NONE cterm=NONE
 hi Macro guifg=#bd57e5 guibg=NONE guisp=NONE gui=NONE ctermfg=134 ctermbg=NONE cterm=NONE
-hi Underlined guifg=NONE guibg=NONE guisp=NONE gui=underline ctermfg=NONE ctermbg=NONE cterm=underline
+hi Underlined guifg=NONE guibg=NONE guisp=NONE gui=NONE ctermfg=NONE ctermbg=NONE cterm=NONE
 hi DiffAdd guifg=#f8f8f2 guibg=#468410 guisp=#468410 gui=bold ctermfg=230 ctermbg=64 cterm=bold
 hi jsparens guifg=#797979 guibg=NONE guisp=NONE gui=NONE ctermfg=243 ctermbg=NONE cterm=NONE
 hi javascriptfunction guifg=#a1aaff guibg=NONE guisp=NONE gui=italic ctermfg=147 ctermbg=NONE cterm=NONE
